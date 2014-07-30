@@ -65,7 +65,7 @@ Abhängig von der eingesetzten Version kann die neue [*Contao Official Demo*][12
 oder die alte [*Music Academy*][13] als Erweiterung installiert werden.
 Aufschluss über Kompatibilität gibt das Erweiterungsverzeichnis.
 
-Vorgehen zur Installation der Demo:
+**Vorgehen zur Installation der Demo:**
 
 1. Eine frische Contao Installation mit Admin-Account erstellen 
 2. Als Admin im Backend anmelden 
@@ -87,6 +87,9 @@ Installationsprozess abgeschlossen. Der Link unten rechts leitet Sie zur
 Backend-Anmeldung weiter. Wenn Sie die Beispielwebseite importiert haben, können
 Sie sich dort als Benutzer "k.jones" mit dem Passwort "kevinjones" anmelden.
 
+#### Contao Demo installieren
+
+Siehe "[**Vorgehen zur Installation der Demo**][15]" im Abschnitt "Ein Template Installieren"
 
 ### Suchmaschinenfreundliche URLs verwenden
 
@@ -360,3 +363,4 @@ Hosting-Partnern][11].
 [12]: https://contao.org/de/extension-list/view/official_demo.de.html
 [13]: https://contao.org/de/extension-list/view/music_academy.de.html
 [14]: https://contao.org/de/manual/3.2/system-administration.html#erweiterungen
+[15]: https://github.com/contao/docs/blob/3.2/manual/de/01-Installation.md#ein-template-importieren
